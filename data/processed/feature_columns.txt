@@ -1,0 +1,8 @@
+location_id
+temperature_2m_max
+temperature_2m_min
+temperature_mean
+precipitation_sum
+precipitation_rolling_3d
+precipitation_rolling_7d
+dry_days
